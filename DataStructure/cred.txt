@@ -1,0 +1,13 @@
+Nov 30 11:44:51 Amals-MacBook-Pro com.apple.xpc.launchd[1]: Coalition Cache Evicted: app<application.activateSettings.DE9DB059-A4B9-4609-B41E-AC54A3759334(501)> [23756]
+Nov 30 11:44:52 Amals-MacBook-Pro Google Chrome Helper[1134]: Libnotify: notify_register_coalesced_registration failed with code 9 on line 2835
+Nov 30 11:44:57 Amals-MacBook-Pro com.apple.xpc.launchd[1] (com.apple.mdworker.shared.05000000-0200-0000-0000-000000000000[11383]): Service exited due to SIGKILL | sent by mds[95]
+Nov 30 11:44:57 Amals-MacBook-Pro com.apple.xpc.launchd[1] (com.apple.mdworker.shared.06000000-0500-0000-0000-000000000000[11393]): Service exited due to SIGKILL | sent by mds[95]
+Nov 30 11:44:58 Amals-MacBook-Pro Google Chrome Helper[2156]: Libnotify: notify_register_coalesced_registration failed with code 9 on line 2835
+Nov 30 11:44:58 Amals-MacBook-Pro Brave Browser Helper[14457]: Libnotify: notify_register_coalesced_registration failed with code 9 on line 2835
+Nov 30 12:00:56 Amals-MacBook-Pro syslogd[64]: ASL Sender Statistics
+Nov 30 12:01:01 Amals-MacBook-Pro com.apple.xpc.launchd[1]: Coalition Cache Evicted: app<application.activateSettings.37C6291B-CD96-4197-BCA0-3E1DF1DB7E94(501)> [23784]
+Nov 30 12:01:02 Amals-MacBook-Pro timed[114]: settimeofday({0x61a5c525,0xf41f0}) == 0
+Nov 30 12:01:04 Amals-MacBook-Pro com.apple.xpc.launchd[1] (com.apple.mdworker.shared.05000000-0300-0000-0000-000000000000[11805]): Service exited due to SIGKILL | sent by mds[95]
+Nov 30 12:01:05 Amals-MacBook-Pro Brave Browser Helper[14357]: Libnotify: notify_register_coalesced_registration failed with code 9 on line 2835
+Nov 30 12:01:07 Amals-MacBook-Pro com.apple.xpc.launchd[1] (com.apple.mdworker.shared.08000000-0600-0000-0000-000000000000[11572]): Service exited due to SIGKILL | sent by mds[95]
+Nov 30 12:01:08 Amals-MacBook-Pro com.apple.xpc.launchd[1] (com.apple.xpc.launchd.domain.user.501): Service "com.apple.xpc.launchd.unmanaged.loginwindow.148" tried to register for endpoint "com.apple.tsm.uiserver" already registered by owner: com.apple.TextInputMenuAgent
